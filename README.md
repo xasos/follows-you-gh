@@ -5,5 +5,7 @@ Mobile app for the Champaign-Urbana Mass Transit District. Built using Ionic, An
 
 Uses the [CUMTD API](https://developer.cumtd.com/).
 
+**NOTICE**: Not complete, under active development.
+
 ## License
 [MIT License](LICENSE)

@@ -5,7 +5,7 @@ Simple Twitter-inspired chrome plugin to check if someone is following you on Gi
 <img src="https://cdn.rawgit.com/xasos/follows-you-gh/master/img/gh-torvalds.png"></img>
 <img src="https://cdn.rawgit.com/xasos/follows-you-gh/master/img/gh-coldsauce.png"></img>
 
-Maaaybe one day @Torvalds will follow me ;)
+Maaaybe one day @torvalds will follow me ;)
 
 ## License
 [MIT License](LICENSE)
